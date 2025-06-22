@@ -26,7 +26,7 @@ Identifying important proteins that can be used in improving the classification 
 
 #### Outline of project
 
-the code is available in this notebook: LASSO.ipynb
+the code is available in this notebook: LASSO (1).ipynb
 
 ##### Contact and Further Information
 For proteomics database and other information, please contact Morteza Mahmoudi at mahmou22@msu.edu 
